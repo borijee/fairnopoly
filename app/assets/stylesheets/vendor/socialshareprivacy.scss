@@ -18,7 +18,7 @@
 }
 
 .social_share_privacy_area i {
-    color: $blue;
+    color: $light-blue;
 }
 
 .social_share_privacy_area .sprite_helper {
@@ -31,6 +31,7 @@
 	height: 21px;
 	float: left;
 }
+
 .social_share_privacy_area li .dummy_btn {
     float: left;
     margin: 0 5px !important;
@@ -38,6 +39,7 @@
     padding: 0;
     height: inherit;
 }
+
 .social_share_privacy_area li div iframe {
     overflow: hidden;
     height: inherit;
@@ -52,14 +54,18 @@
     padding: 0;
     cursor: pointer;
 }
+
 .social_share_privacy_area li .switch.on {
     background-position: 0 -12px;
 }
+
 /* Switch end */
 /* Tooltips begin */
+
 .social_share_privacy_area li.help_info {
     position: relative;
 }
+
 .social_share_privacy_area li.help_info .info,
 .social_share_privacy_area li .help_info.icon .info {
     display: none;
