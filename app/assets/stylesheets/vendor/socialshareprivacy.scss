@@ -17,6 +17,10 @@
 	display: block;
 }
 
+.social_share_privacy_area i {
+    color: $blue;
+}
+
 .social_share_privacy_area .sprite_helper {
 
 }
@@ -29,7 +33,7 @@
 }
 .social_share_privacy_area li .dummy_btn {
     float: left;
-    margin: 0 10px !important;
+    margin: 0 5px !important;
     cursor: pointer;
     padding: 0;
     height: inherit;
